@@ -1,3 +1,16 @@
 ﻿  main.cpp
 D:\CSFinalProject\Final\VAO.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\CSFinalProject\Final\icosphereGenerator.h(38,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CSFinalProject\Final\icosphereGenerator.h(40,35): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\CSFinalProject\Final\icosphereGenerator.h(42,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\CSFinalProject\Final\icosphereGenerator.h(119,16): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+D:\CSFinalProject\Final\icosphereGenerator.h(119,16): warning C4244:         with
+D:\CSFinalProject\Final\icosphereGenerator.h(119,16): warning C4244:         [
+D:\CSFinalProject\Final\icosphereGenerator.h(119,16): warning C4244:             _Ty=int
+D:\CSFinalProject\Final\icosphereGenerator.h(119,16): warning C4244:         ]
+D:\CSFinalProject\Final\icosphereGenerator.h(120,44): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+D:\CSFinalProject\Final\icosphereGenerator.h(120,44): warning C4244:         with
+D:\CSFinalProject\Final\icosphereGenerator.h(120,44): warning C4244:         [
+D:\CSFinalProject\Final\icosphereGenerator.h(120,44): warning C4244:             _Ty=int
+D:\CSFinalProject\Final\icosphereGenerator.h(120,44): warning C4244:         ]
   Final.vcxproj -> D:\CSFinalProject\Final\x64\Debug\Final.exe

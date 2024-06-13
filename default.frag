@@ -12,7 +12,6 @@ in vec3 crntPos;
 
 // Gets the Texture Units from the main function
 uniform sampler2D tex0;
-//^texture \/ specular map
 uniform sampler2D tex1;
 // Gets the color of the light from the main function
 uniform vec4 lightColor;
