@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\CSFinalProject\\Final\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71A35BF7-61F1-452D-B45B-B0742BAB087C}|Final.vcxproj|D:\\CSFinalProject\\Final\\OBJLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71A35BF7-61F1-452D-B45B-B0742BAB087C}|Final.vcxproj|solutionrelative:OBJLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71A35BF7-61F1-452D-B45B-B0742BAB087C}|Final.vcxproj|D:\\CSFinalProject\\Final\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{71A35BF7-61F1-452D-B45B-B0742BAB087C}|Final.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{71A35BF7-61F1-452D-B45B-B0742BAB087C}|Final.vcxproj|D:\\CSFinalProject\\Final\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{71A35BF7-61F1-452D-B45B-B0742BAB087C}|Final.vcxproj|solutionrelative:default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A35BF7-61F1-452D-B45B-B0742BAB087C}|Final.vcxproj|D:\\CSFinalProject\\Final\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71A35BF7-61F1-452D-B45B-B0742BAB087C}|Final.vcxproj|solutionrelative:Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A35BF7-61F1-452D-B45B-B0742BAB087C}|Final.vcxproj|D:\\CSFinalProject\\Final\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71A35BF7-61F1-452D-B45B-B0742BAB087C}|Final.vcxproj|solutionrelative:Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71A35BF7-61F1-452D-B45B-B0742BAB087C}|Final.vcxproj|D:\\CSFinalProject\\Final\\light.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -38,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +58,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "OBJLoader.h",
+              "DocumentMoniker": "D:\\CSFinalProject\\Final\\OBJLoader.h",
+              "RelativeDocumentMoniker": "OBJLoader.h",
+              "ToolTip": "D:\\CSFinalProject\\Final\\OBJLoader.h",
+              "RelativeToolTip": "OBJLoader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-13T09:25:31.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Texture.cpp",
+              "DocumentMoniker": "D:\\CSFinalProject\\Final\\Texture.cpp",
+              "RelativeDocumentMoniker": "Texture.cpp",
+              "ToolTip": "D:\\CSFinalProject\\Final\\Texture.cpp",
+              "RelativeToolTip": "Texture.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T10:07:57.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Texture.h",
+              "DocumentMoniker": "D:\\CSFinalProject\\Final\\Texture.h",
+              "RelativeDocumentMoniker": "Texture.h",
+              "ToolTip": "D:\\CSFinalProject\\Final\\Texture.h",
+              "RelativeToolTip": "Texture.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T10:07:01.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "default.frag",
               "DocumentMoniker": "D:\\CSFinalProject\\Final\\default.frag",
               "RelativeDocumentMoniker": "default.frag",
               "ToolTip": "D:\\CSFinalProject\\Final\\default.frag",
               "RelativeToolTip": "default.frag",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-06-11T22:04:32.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "light.vert",
               "DocumentMoniker": "D:\\CSFinalProject\\Final\\light.vert",
               "RelativeDocumentMoniker": "light.vert",
@@ -67,12 +118,11 @@
               "RelativeToolTip": "light.vert",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-11T21:38:07.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T21:38:07.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "light.frag",
               "DocumentMoniker": "D:\\CSFinalProject\\Final\\light.frag",
               "RelativeDocumentMoniker": "light.frag",
@@ -80,12 +130,11 @@
               "RelativeToolTip": "light.frag",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-11T21:36:49.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T21:36:49.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Camera.cpp",
               "DocumentMoniker": "D:\\CSFinalProject\\Final\\Camera.cpp",
               "RelativeDocumentMoniker": "Camera.cpp",
@@ -97,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Camera.h",
               "DocumentMoniker": "D:\\CSFinalProject\\Final\\Camera.h",
               "RelativeDocumentMoniker": "Camera.h",
@@ -109,26 +158,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "default.vert",
               "DocumentMoniker": "D:\\CSFinalProject\\Final\\default.vert",
               "RelativeDocumentMoniker": "default.vert",
               "ToolTip": "D:\\CSFinalProject\\Final\\default.vert",
               "RelativeToolTip": "default.vert",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-06-06T21:04:11.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\CSFinalProject\\Final\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "D:\\CSFinalProject\\Final\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAJkAAAAAAAAAAAAAAGYAAAAgAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAG8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-05T18:42:32.712Z",
               "EditorCaption": ""
